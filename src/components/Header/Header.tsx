@@ -101,9 +101,9 @@ export const Header = () => {
                       {item === "sobre"
                         ? "Sobre mim"
                         : item === "projetos"
-                        ? "Projetos" // Removi o acento (forma correta)
+                        ? "Projetos"
                         : item === "contato"
-                        ? "Contato" // Removi o acento (forma correta)
+                        ? "Contato"
                         : "Tecnologias"}
                     </span>
                   </a>
