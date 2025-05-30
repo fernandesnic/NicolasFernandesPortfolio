@@ -29,6 +29,15 @@ export const ProjectsSection = () => {
       githubUrl: "https://github.com/fernandesnic/todo-list",
       liveUrl: "#",
     },
+    {
+      id: 3,
+      title: "CRUD",
+      description: "CRUD simples com node e react",
+      tags: ["React", "Node"],
+      imageUrl: "/projetos/crud.png",
+      githubUrl: "https://github.com/fernandesnic/crud",
+      liveUrl: "#",
+    },
   ];
 
   return (
